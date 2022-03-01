@@ -3184,3 +3184,166 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.01-15.17.32:182][495]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020D94E13600), frame # 345495
 [2022.03.01-15.17.32:184][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
 [2022.03.01-15.17.32:212][496]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.03.01-15.20.47:924][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.01-15.20.52:280][581]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.03.01-15.21.20:673][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PortalsBlueprints/PortalGun.PortalGun
+[2022.03.01-15.24.04:492][ 98]BlueprintLog: New page: Compile PortalGun
+[2022.03.01-15.24.04:542][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.01-15.24.05:712][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalsBlueprints/PortalGun" FILE="C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/PortalsBlueprints/PortalGun.uasset" SILENT=true
+[2022.03.01-15.24.05:745][203]LogSavePackage: Moving 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Saved/PortalGun23B74C194B338CE1BC84309E456700B6.tmp' to 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/PortalsBlueprints/PortalGun.uasset'
+[2022.03.01-15.24.05:761][203]AssetCheck: New page: Asset Save: PortalGun
+[2022.03.01-15.24.05:761][203]LogContentValidation: Display: Validating Blueprint /Game/PortalsBlueprints/PortalGun.PortalGun
+[2022.03.01-15.25.26:696][225]BlueprintLog: New page: Compile PortalGun
+[2022.03.01-15.25.26:744][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.03.01-15.25.27:114][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalsBlueprints/PortalGun" FILE="C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/PortalsBlueprints/PortalGun.uasset" SILENT=true
+[2022.03.01-15.25.27:146][253]LogSavePackage: Moving 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Saved/PortalGun0DB91C09426A00A11A580DA93C090013.tmp' to 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/PortalsBlueprints/PortalGun.uasset'
+[2022.03.01-15.25.27:161][253]AssetCheck: New page: Asset Save: PortalGun
+[2022.03.01-15.25.27:161][253]LogContentValidation: Display: Validating Blueprint /Game/PortalsBlueprints/PortalGun.PortalGun
+[2022.03.01-15.25.28:258][346]LogSlate: Window 'PortalGun' being destroyed
+[2022.03.01-15.25.28:262][346]LogSlate: Window 'PortalGun' being destroyed
+[2022.03.01-15.25.28:262][346]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-15.25.28:262][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-15.25.28:970][422]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.01-15.25.28:981][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-15.25.28:981][422]PIE: New page: PIE session: FirstPersonExampleMap (1 Mar 2022, 15:25:28)
+[2022.03.01-15.25.28:981][422]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.01-15.25.28:994][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012744s)
+[2022.03.01-15.25.28:995][422]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.01-15.25.28:995][422]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E25951600), frame # 377422
+[2022.03.01-15.25.28:995][422]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E09635BC0), frame # 377422
+[2022.03.01-15.25.28:995][422]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2022.03.01-15.25.28:995][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014221s)
+[2022.03.01-15.25.29:024][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.01-15.25.29:026][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-15.25.29:026][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-15.25.29:026][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-15.25.29:026][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-15.25.29:026][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-15.25.29:026][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-15.25.29:026][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-15.25.29:026][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-15.25.29:027][422]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.01-15.25.29:027][422]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-15.25.29:032][422]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-15.25.29:032][422]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-15.25.29:054][422]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.03.01-15.25.29:055][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-15.25.29:055][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-15.25.29:055][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-15.25.29:055][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-15.25.29:067][422]LogInit: FAudioDevice initialized.
+[2022.03.01-15.25.29:129][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-15.25.29:129][422]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.01-15.25.29:132][422]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.01-15.25.29
+[2022.03.01-15.25.29:132][422]LogWorld: Bringing up level for play took: 0.002242
+[2022.03.01-15.25.29:132][422]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.03.01-15.25.29:136][422]PIE: Server logged in
+[2022.03.01-15.25.29:136][422]PIE: Play in editor total start time 0.158 seconds.
+[2022.03.01-15.25.30:860][613]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.31:429][681]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.31:788][724]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.32:106][762]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.32:440][802]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.32:801][845]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.33:184][891]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.33:519][931]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.33:868][973]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.34:185][ 11]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.34:469][ 45]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.34:769][ 81]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.35:129][124]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.35:463][164]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.35:797][204]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.36:122][243]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.36:481][286]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.36:764][320]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.37:098][360]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.37:382][394]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.37:764][440]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.38:073][477]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.38:448][522]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.38:775][561]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.39:091][599]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.39:433][640]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.39:683][670]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.39:984][706]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.40:353][750]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.40:669][788]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.40:986][826]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.41:337][868]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.41:721][914]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ExampleCube_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2022.03.01-15.25.42:741][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-15.25.42:741][ 31]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.01-15.25.42:742][ 31]LogSlate: Window 'TelePortals Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.03.01-15.25.42:748][ 31]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-15.25.42:749][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-15.25.42:756][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-15.25.42:761][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-15.25.42:799][ 31]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E09635BC0), frame # 379031
+[2022.03.01-15.25.42:800][ 31]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E25951600), frame # 379031
+[2022.03.01-15.25.42:802][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.03.01-15.25.42:977][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.03.01-15.25.45:525][316]LogSlate: Window 'Message Log' being destroyed
+[2022.03.01-15.25.45:529][316]LogSlate: Window 'Message Log' being destroyed
+[2022.03.01-15.25.50:949][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PortalsBlueprints/ExampleCube.ExampleCube
+[2022.03.01-15.26.04:457][360]BlueprintLog: New page: Compile ExampleCube
+[2022.03.01-15.26.04:500][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.03.01-15.26.05:155][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalsBlueprints/ExampleCube" FILE="C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/PortalsBlueprints/ExampleCube.uasset" SILENT=true
+[2022.03.01-15.26.05:178][422]LogSavePackage: Moving 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Saved/ExampleCube9DB856DF4F6FDAA8B1F400BB226757F7.tmp' to 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/PortalsBlueprints/ExampleCube.uasset'
+[2022.03.01-15.26.05:193][422]AssetCheck: New page: Asset Save: ExampleCube
+[2022.03.01-15.26.05:193][422]LogContentValidation: Display: Validating Blueprint /Game/PortalsBlueprints/ExampleCube.ExampleCube
+[2022.03.01-15.26.07:410][660]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.03.01-15.26.07:421][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-15.26.07:421][660]PIE: New page: PIE session: FirstPersonExampleMap (1 Mar 2022, 15:26:07)
+[2022.03.01-15.26.07:421][660]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.01-15.26.07:432][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011401s)
+[2022.03.01-15.26.07:433][660]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.01-15.26.07:433][660]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020E6F557E00), frame # 381660
+[2022.03.01-15.26.07:433][660]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020E6C5E1D00), frame # 381660
+[2022.03.01-15.26.07:434][660]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2022.03.01-15.26.07:434][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012608s)
+[2022.03.01-15.26.07:458][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-15.26.07:460][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-15.26.07:460][660]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.01-15.26.07:460][660]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-15.26.07:466][660]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-15.26.07:466][660]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-15.26.07:486][660]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.03.01-15.26.07:486][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-15.26.07:486][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-15.26.07:486][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-15.26.07:487][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-15.26.07:488][660]LogInit: FAudioDevice initialized.
+[2022.03.01-15.26.07:546][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-15.26.07:546][660]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.01-15.26.07:549][660]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.01-15.26.07
+[2022.03.01-15.26.07:549][660]LogWorld: Bringing up level for play took: 0.002345
+[2022.03.01-15.26.07:549][660]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.03.01-15.26.07:553][660]PIE: Server logged in
+[2022.03.01-15.26.07:554][660]PIE: Play in editor total start time 0.136 seconds.
+[2022.03.01-15.26.27:582][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-15.26.27:582][ 44]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.01-15.26.27:582][ 44]LogSlate: Window 'TelePortals Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.03.01-15.26.27:589][ 44]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-15.26.27:589][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-15.26.27:599][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-15.26.27:603][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-15.26.27:642][ 44]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020E6C5E1D00), frame # 384044
+[2022.03.01-15.26.27:643][ 44]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020E6F557E00), frame # 384044
+[2022.03.01-15.26.27:645][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.01-15.26.27:674][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.03.01-15.26.35:588][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.01-15.26.35:656][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.01-15.26.35:705][969]LogSavePackage: Moving 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Saved/FirstPersonExampleMap17BCCBAE4D99FF23F6BFCF8BA6E26928.tmp' to 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.01-15.26.35:726][969]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.093
+[2022.03.01-15.26.36:192][969]LogSavePackage: Moving 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Saved/FirstPersonExampleMap_BuiltData75B7AC344C3066B0525FF1AA68F7DF58.tmp' to 'C:/Users/Robert/Desktop/TelePortals/TelePortals/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.01-15.26.36:213][969]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.01-15.26.36:213][969]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.01-15.26.36:213][969]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
